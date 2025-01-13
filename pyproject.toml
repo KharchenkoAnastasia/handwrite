@@ -4,10 +4,10 @@ requires = ["setuptools>=72.2.0", "setuptools-scm>=8.1.0"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-packages = ["vin_handwrite"]
+packages = ["handwrite"]
 
 [project]
-name = "vin_handwrite"
+name = "handwrite"
 version = "0.1.0"
 requires-python = ">=3.11"
 description = ""
