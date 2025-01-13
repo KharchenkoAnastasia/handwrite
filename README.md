@@ -62,12 +62,16 @@ handwrite/
 ```
 
 **Components Description**
-**Data Files**
 
-*   **EDA_VIN_Handwritten_Character_Recognition.ipynb**: Jupyter notebook containing exploratory data analysis
 *   **emnist-balanced-mapping.txt**: Character mapping definitions for the EMNIST dataset
 *   **emnist-balanced-test/train.csv**: EMNIST dataset files for model training and testing
 
+    
+**notebooks**
+
+*   **EDA_Handwritten_Character_Recognition.ipynb**: Jupyter notebook containing exploratory data analysis
+
+  
 **Scripts**
 
 *   **data_processing.py**: Functions for data preprocessing and augmentation
