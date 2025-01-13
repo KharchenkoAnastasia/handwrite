@@ -1,4 +1,4 @@
-# VIN Handwritten Character Recognition
+# Handwritten Character Recognition
 
 ### **Description**
 
@@ -37,7 +37,7 @@ The **emnist-balanced-mapping.txt** file provides the mapping between class labe
 
 ### **Project Structure**
 ```
-vin_handwrite/
+handwrite/
 │
 ├── data/                      # Data directory
 │   ├── emnist-balanced-mapping.txt
@@ -50,7 +50,7 @@ vin_handwrite/
 ├── notebooks/                     # Model directory
 │   └── EDA_VIN_Handwritten_Character_Recognition.ipynb         
 │
-├── vin_handwrite/            # Main package directory
+├── handwrite/            # Main package directory
 │   ├── __init__.py
 │   ├── data_processing.py    # Data preprocessing utilities
 │   ├── inference_script.py   # Model inference implementation
